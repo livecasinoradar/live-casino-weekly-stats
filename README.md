@@ -36,6 +36,7 @@ Short answers built from the same week of data:
 - [How often does the Monopoly Big Baller bonus round hit?](monopoly-big-baller-bonus-frequency.md)
 - [How often does zero come up in live roulette?](live-roulette-zero-frequency.md)
 - [Did ball 48 go missing from Crazy Balls?](crazy-balls-missing-ball-48.md)
+- [What were the biggest live casino multipliers last week?](biggest-multipliers-2026-W46.md)
 
 ## Where the numbers come from
 

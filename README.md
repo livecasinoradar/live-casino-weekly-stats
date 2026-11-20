@@ -10,7 +10,7 @@ The highest multiplier on a live game show that week was 10,000x on Lightning St
 
 | File | Week | Games | Rounds |
 | --- | --- | --- | --- |
-| `data/live-casino-weekly-stats-2026-W46.csv` | 9–15 November 2026 | 42 | 500,510 |
+| `live-casino-weekly-stats-2026-W46.csv` | 9–15 November 2026 | 42 | 500,510 |
 
 One row per game per ISO week. Game shows, roulette, baccarat, dice and ball games.
 

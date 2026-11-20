@@ -27,6 +27,16 @@ One row per game per ISO week. Game shows, roulette, baccarat, dice and ball gam
 
 Empty cells mean the figure does not apply to that game or was not published for it.
 
+## Notes on single games
+
+Short answers built from the same week of data:
+
+- [How often does the Crazy Time bonus round hit?](crazy-time-bonus-frequency.md)
+- [How often does the Ice Fishing bonus round hit?](ice-fishing-bonus-frequency.md)
+- [How often does the Monopoly Big Baller bonus round hit?](monopoly-big-baller-bonus-frequency.md)
+- [How often does zero come up in live roulette?](live-roulette-zero-frequency.md)
+- [Did ball 48 go missing from Crazy Balls?](crazy-balls-missing-ball-48.md)
+
 ## Where the numbers come from
 
 LiveCasinoRadar records the results of live casino games round by round and publishes statistics at https://livecasinoradar.com/. This repository holds weekly totals only. It contains no player, dealer or table information. Recording coverage for the week was 96.4%, so the counts are rounds recorded, not necessarily every round played.
